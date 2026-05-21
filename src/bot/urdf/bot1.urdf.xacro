@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<robot name="bot">
+
+  <link name="world"/>
+
+  <link name="base_link">
+    <inertial>
+      <mass value="1.0"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="-0.5 -0.5 0"/>
+      <geometry>
+        <mesh filename="package://bot_description/meshes/basement.STL" scale="0.01 0.01 0.01"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <joint name="virtual_joint" type="fixed">
+    <parent link="world"/><child link="base_link"/><origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+
+  <link name="base_plate">
+    <inertial>
+      <mass value="0.1"/>
+      <inertia ixx="0.01" ixy="0" ixz="0" iyy="0.01" iyz="0" izz="0.01"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="-0.39 -0.39 -0.56"/>
+      <geometry>
+        <mesh filename="package://bot_description/meshes/base_plate.STL" scale="0.01 0.01 0.01"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <joint name="joint_1" type="revolute">
+    <parent link="base_link"/><child link="base_plate"/><origin xyz="0 0 0.307"/>
+    <axis xyz="0 0 1"/>
+    <limit lower="-1.57" upper="1.57" effort="30.0" velocity="10.0"/>
+  </joint>
+
+  <gazebo>
+    <plugin filename="gz_ros2_control-system" name="gz_ros2_control::GazeboSimROS2ControlPlugin">
+      <parameters>$(find bot_description)/config/bot_controllers.yaml</parameters>
+    </plugin>
+  </gazebo>
+
+  <gazebo>
+    <plugin name="mimic_joint_plugin" filename="libgazebo_ros_mimic_joint.so">
+      <joint>joint_4</joint>
+      <mimicJoint>joint_5</mimicJoint>
+      <multiplier>-1.0</multiplier>
+      <offset>0</offset>
+      <has_pid>true</has_pid>
+    </plugin>
+  </gazebo>
+</robot>
