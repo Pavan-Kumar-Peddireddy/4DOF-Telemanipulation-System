@@ -1,4 +1,6 @@
 
+
+
 # 🤖 Vision-Guided Telemanipulation System
 
 A modular ROS 2 workspace implementing a **vision-guided telemanipulation framework** for a 4-DOF robotic manipulator. The system integrates:
@@ -31,6 +33,10 @@ The workspace establishes a synchronized **Digital Twin architecture** where hum
 │       ├── gazebo_execution.mp4
 │       └── rqt_graph.png
 └── README.md
+
+https://github.com/user-attachments/assets/63898066-52ce-44aa-bc1b-2a414b8c99ee
+
+
 ```
 # 🎥 Live Demonstrations
 
@@ -38,7 +44,7 @@ The workspace establishes a synchronized **Digital Twin architecture** where hum
 
 
 
-https://github.com/user-attachments/assets/4a5852b6-eb2e-41f1-b14f-b1f5530116ca
+https://github.com/user-attachments/assets/c84756bc-d48b-4cc1-b923-ec615a4ea48d
 
 
 Source:
@@ -49,7 +55,10 @@ Source:
 ## 📦 Pick & Place Task
 
 
-https://github.com/user-attachments/assets/bd430599-a2eb-49bb-9f23-061974f2f247
+
+https://github.com/user-attachments/assets/0a422c6d-a778-4bc2-92f1-d93e63d23f22
+
+
 
 Source:
 [picking_objects.gif](media/demo/picking_objects.gif)
