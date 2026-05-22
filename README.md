@@ -47,18 +47,30 @@ The workspace establishes a synchronized **Digital Twin architecture** where hum
 
 
 https://github.com/user-attachments/assets/c2077437-6c63-4d4a-8fc1-83e314d4f59c
+
+
+Source:
+[gesture_control.mp4](media/demo/gesture_control.mp4)
+
 ---
 
 ## 📦 Pick & Place Task
 
-[picking_objects](
-https://github.com/user-attachments/assets/bd430599-a2eb-49bb-9f23-061974f2f247)
+
+https://github.com/user-attachments/assets/bd430599-a2eb-49bb-9f23-061974f2f247
+
+Source:
+[picking_objects.gif](media/demo/picking_objects.gif)
 
 ---
 
 ## 🧪 Gazebo Digital Twin
 
-(https://github.com/user-attachments/assets/7fbd733b-f4ac-40cb-933a-e1f2cbb1602c)
+https://github.com/user-attachments/assets/7fbd733b-f4ac-40cb-933a-e1f2cbb1602c
+
+Source:
+[gz_sim.mp4](media/simulation/gz_sim.mp4)
+
 ---
 
 # 👥 Contributors
