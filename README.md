@@ -1,4 +1,16 @@
-# 🤖 Vision-Guided Telemanipulation System
+## 📂 Repository Structure
+
+```text
+├── gesture_control_pkg/       # Vision & tracking nodes workspace
+├── motion_programming_pkg/    # Kinematics & execution nodes workspace
+├── media/                     # Centralized repository asset directory
+│   ├── gesture_nodes/         # Diagnostic UI frames & tracking clips
+│   │   ├── ui_screenshot.png
+│   │   └── pipeline_demo.mp4
+│   └── simulation/            # Gazebo recordings & node topologies
+│       ├── gazebo_execution.mp4
+│       └── rqt_graph.png
+└── README.md# 🤖 Vision-Guided Telemanipulation System
 
 [cite_start]A complete, multi-package ROS 2 engineering workspace integrating computer vision, real-time physics simulation, and embedded hardware control for an agile 4-Degree-of-Freedom (4-DOF) robotic manipulator[cite: 484, 485]. 
 
