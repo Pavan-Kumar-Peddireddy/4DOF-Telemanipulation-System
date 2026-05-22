@@ -31,19 +31,23 @@ The workspace establishes a synchronized **Digital Twin architecture** where hum
 │       └── rqt_graph.png
 └── README.md
 ```
-# 🖼️ Demonstration
+# 🎥 Live Demonstrations
 
-## ✋ Gesture Control System
+## ✋ Gesture Teleoperation
 
-▶️ [Gesture Control Demo Video](media/real_time/gesture_control.mp4)
+https://github.com/user-attachments/assets/gesture-demo-id
 
-## 📦 Object Picking Task
+---
 
-▶️ [Pick & Place Demo](media/real_time/picking_objects.mp4)
+## 📦 Pick & Place Task
 
-## 🧪 Gazebo Simulation
+https://github.com/user-attachments/assets/pick-place-id
 
-▶️ [Gazebo Simulation](media/simulation/gz_sim.mp4)
+---
+
+## 🧪 Gazebo Digital Twin
+
+https://github.com/user-attachments/assets/gazebo-demo-id
 ---
 
 # 👥 Contributors
