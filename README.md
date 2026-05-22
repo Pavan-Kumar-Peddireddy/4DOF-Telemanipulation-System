@@ -41,13 +41,14 @@ The workspace establishes a synchronized **Digital Twin architecture** where hum
 ## ✋ Gesture Teleoperation
 
 
-https://github.com/user-attachments/assets/bd430599-a2eb-49bb-9f23-061974f2f247
 
+https://github.com/user-attachments/assets/c2077437-6c63-4d4a-8fc1-83e314d4f59c
 ---
 
 ## 📦 Pick & Place Task
 
-[picking_objects](https://github.com/user-attachments/assets/c2077437-6c63-4d4a-8fc1-83e314d4f59c)
+[picking_objects](
+https://github.com/user-attachments/assets/bd430599-a2eb-49bb-9f23-061974f2f247)
 
 ---
 
