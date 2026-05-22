@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 # 🤖 Vision-Guided Telemanipulation System
 
 A modular ROS 2 workspace implementing a **vision-guided telemanipulation framework** for a 4-DOF robotic manipulator. The system integrates:
@@ -54,7 +58,7 @@ https://github.com/user-attachments/assets/bd430599-a2eb-49bb-9f23-061974f2f247)
 
 ## 🧪 Gazebo Digital Twin
 
-https://github.com/user-attachments/assets/gazebo-demo-id
+(https://github.com/user-attachments/assets/7fbd733b-f4ac-40cb-933a-e1f2cbb1602c)
 ---
 
 # 👥 Contributors
