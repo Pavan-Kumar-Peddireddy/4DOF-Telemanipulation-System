@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/bd430599-a2eb-49bb-9f23-061974f2f247
+
 
 
 # 🤖 Vision-Guided Telemanipulation System
