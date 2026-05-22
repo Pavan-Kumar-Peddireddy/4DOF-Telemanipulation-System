@@ -1,10 +1,4 @@
 
-
-https://github.com/user-attachments/assets/8caf9a9c-0f6d-4cfd-acd0-eb6d51702523
-
-
-
-
 # 🤖 Vision-Guided Telemanipulation System
 
 A modular ROS 2 workspace implementing a **vision-guided telemanipulation framework** for a 4-DOF robotic manipulator. The system integrates:
