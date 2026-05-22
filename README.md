@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/8caf9a9c-0f6d-4cfd-acd0-eb6d51702523
+
+
+
 
 # 🤖 Vision-Guided Telemanipulation System
 
@@ -44,7 +48,11 @@ https://github.com/user-attachments/assets/63898066-52ce-44aa-bc1b-2a414b8c99ee
 
 
 
-https://github.com/user-attachments/assets/c84756bc-d48b-4cc1-b923-ec615a4ea48d
+https://github.com/user-attachments/assets/8caf9a9c-0f6d-4cfd-acd0-eb6d51702523
+
+
+
+
 
 
 Source:
@@ -54,9 +62,8 @@ Source:
 
 ## 📦 Pick & Place Task
 
+https://github.com/user-attachments/assets/452c2fe2-d366-4345-abd8-531a18763757
 
-
-https://github.com/user-attachments/assets/0a422c6d-a778-4bc2-92f1-d93e63d23f22
 
 
 
